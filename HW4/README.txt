@@ -1,0 +1,1 @@
+The hash type, hashTable size and txt file can be adjusted on the main.cpp file. It is also indicated with comment in the main.cpp file as well
